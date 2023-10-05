@@ -2,9 +2,9 @@
 #include <unistd.h>
 
 /**
- * main function - this prints to the standard error
+ * main function - Entry Point
  *
- * Return: 1 when succesful
+ * Return: always 1
  *
  */
 
